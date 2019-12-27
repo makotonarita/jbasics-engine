@@ -1,1 +1,1 @@
-# jbasics-engine
+# python Makoto M. Narita
